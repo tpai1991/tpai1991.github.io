@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+img {
+    height: 50px;
+    width: 30px;
+    position: relative;
+}
