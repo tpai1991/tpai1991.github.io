@@ -4,7 +4,11 @@
 }
 
 img {
-    width: 198px;
-    height: 264px;
+    object-fit: cover;
+}
+
+#id-photo {
+    width: 300px;
+    height: 400px;
     position: relative;
 }
