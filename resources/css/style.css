@@ -7,10 +7,16 @@ img {
     object-fit: cover;
 }
 
-#about-me {
+#id-photo {
     width: 300px;
     height: 400px;
     position: relative;
     border-style: solid;
     border-width: 2px;
+}
+
+.about-section {
+    height: auto;
+    width: 400px;
+    margin: auto 20px;
 }
