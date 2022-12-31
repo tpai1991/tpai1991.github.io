@@ -16,8 +16,16 @@ img {
     border-width: 2px;
 }
 
+.top-section {
+    height: auto;
+    width: auto;
+    margin: auto;
+    position: fixed;
+}
+
 .about-section {
     height: auto;
     width: 400px;
     margin: auto 20px;
+    float: left;
 }
